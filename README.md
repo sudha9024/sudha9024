@@ -1,9 +1,5 @@
-Hi there 👋
-This is **Sudha Kumawat**
-
-
-
-
+Hi there!! 
+- 👋 This is **Sudha Kumawat**
 - 🔭 I'm currently persuing my Masters(Computer Application) from Maulana Azad National Institute of Technology, Bhopal.
 - 🌱 I am interested in C++, Java and JavaScript.
 - 👯 I’m looking to collaborate on an open source project.
