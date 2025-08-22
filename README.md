@@ -1,9 +1,12 @@
-## Hi there 👋
+Hi there 👋
+This is **Sudha Kumawat**
+I'm currently persuing my Masters(Computer Application) from Maulana Azad National Institute of Technology, Bhopal
+I am interested in C++, Java and JavaScript.
+I'm looking forward to learning development skills that will guide me to build better code.
+How to reach me... https://www.linkedin.com/in/sudha-kumawat-043289221/
 
-<!--
-**sudha9024/sudha9024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +16,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
